@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "telegram-bot-swift",
+        "repositoryURL": "https://github.com/Maxim-Lanskoy/telegram-bot-swift.git",
+        "state": {
+          "branch": "master",
+          "revision": "d4d9e7099df1855cbc031d2fe71737f3e71810ae",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
