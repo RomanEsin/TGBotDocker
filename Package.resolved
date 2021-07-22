@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "telegram-bot-swift",
-        "repositoryURL": "https://github.com/Maxim-Lanskoy/telegram-bot-swift.git",
+        "repositoryURL": "https://github.com/RomanEsin/telegram-bot-swift.git",
         "state": {
           "branch": "master",
-          "revision": "d4d9e7099df1855cbc031d2fe71737f3e71810ae",
+          "revision": "2e806f8f27154852905fcfa3bb8c51e55dff9e53",
           "version": null
         }
       }
